@@ -1,0 +1,18 @@
+body{
+    background-color: yellowgreen;
+    color: blue;
+}
+.heading{
+    width:85%;
+    font-size: 40px;
+    background-color: yellow;
+}
+.people, #identified_person, #confidence_level{
+    color: violet;
+    font-size: 30px;
+}
+#camera{
+     width: 300px;
+     height: 350px;
+     border:3px dashed orangered;
+}
